@@ -1,0 +1,20 @@
+"Prediksi Kualitas Tidur Mahasiswa Menggunakan Random Forest dan Logistic Regression"
+tujuan : Memprediksi kualitas tidur atau tingkat stres berdasarkan data wearable (detak jantung, gerakan, jam tidur).
+
+Keterkaitan materi:
+-Supervised (klasifikasi: tidur baik vs buruk).
+-Unsupervised (clustering pola tidur).
+-Dimensionality reduction (PCA untuk sensor data).
+
+
+Langkah:
+-Dataset: gunakan Sleep Health and Lifestyle Dataset (ada di Kaggle).
+-Preprocessing: cleaning, normalisasi.
+-Modeling: Logistic Regression, Random Forest, K-Means.
+-Evaluasi: Confusion Matrix, F1-score.
+-(Opsional) Visualisasi cluster dengan PCA.
+
+
+
+
+
