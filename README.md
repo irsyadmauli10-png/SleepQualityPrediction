@@ -45,16 +45,5 @@ Beberapa fitur yang digunakan dalam penelitian ini meliputi:
    - *Classification report*  
    - Confusion Matrix  
 
----
+--
 
-## 📈 Hasil Model
-| Model | Akurasi | Catatan |
-|--------|----------|----------|
-| Logistic Regression | ~XX% | Model sederhana dan cepat |
-| Random Forest | ~XX% | Performa lebih tinggi pada dataset non-linear |
-
-> *Nilai akurasi akan bervariasi tergantung dataset dan random seed.*
-
----
-
-## 🧠 Struktur Direktori
